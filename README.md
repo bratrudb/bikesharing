@@ -2,7 +2,7 @@
 
 ## Overview
 I analyzed a New York City Bikshare program and shared the results using Tableau.
-[link to dashboard(https://public.tableau.com/app/profile/benjamin8304/viz/NYC_Bike_Challenge_16402207752970/CityBikes "Link to dashboard")
+[link to dashboard](https://public.tableau.com/app/profile/benjamin8304/viz/NYC_Bike_Challenge_16402207752970/CityBikes "Link to dashboard")
 
 ## Results
 
